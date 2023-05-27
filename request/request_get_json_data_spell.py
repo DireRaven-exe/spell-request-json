@@ -128,7 +128,7 @@ def get_json_data_spell(url):
 
     # Преобразование в JSON
     # открыть файл JSON и загрузить его содержимое
-    with open('spells_beta.json', 'r', encoding='utf-8') as file:
+    with open('spells.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     # Получить список 'results' из данных
@@ -138,7 +138,7 @@ def get_json_data_spell(url):
     results.append(spell_data)
 
     # Записать обновленные данные обратно в файл JSON
-    with open('spells_beta.json', 'w', encoding='utf-8') as file:
+    with open('spells.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     # Вывод объекта на экран
