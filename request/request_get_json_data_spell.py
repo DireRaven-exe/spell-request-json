@@ -44,6 +44,7 @@ def get_json_data_spell(url):
     range_ = ''
     components = ''
     duration = ''
+    concentration = ''
     description = ''
     higher_level = ''
     material = ''
@@ -91,6 +92,12 @@ def get_json_data_spell(url):
         higher_level = description_parts[1].strip()
         higher_level = higher_level[2:]  # Удаление первые два символа
 
+    if "Концентрация" in duration:
+        concentration = "да"
+        duration = duration.replace("Концентрация, вплоть ", "")
+    else:
+        concentration = "нет"
+
     # Обработка slug
     slug = url.replace('https://dnd.su/spells/', '')
     for i, char in enumerate(slug):
@@ -114,21 +121,18 @@ def get_json_data_spell(url):
         "material": material,
         "ritual": ritual,
         "duration": duration,
+        "concentration": concentration,
         "casting_time": casting_time,
         "level": level,
         "level_int": level_int,
         "school": school,
         "dnd_class": classes,
         "archetype": archetypes,
-        "circles": "",
-        "document__slug": "wotc-srd",
-        "document__title": "Systems Reference Document",
-        "document__license_url": "https://open5e.com/legal"
     }
 
     # Преобразование в JSON
     # открыть файл JSON и загрузить его содержимое
-    with open('spells.json', 'r', encoding='utf-8') as file:
+    with open('../data/spells/spells_ru.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     # Получить список 'results' из данных
@@ -138,7 +142,7 @@ def get_json_data_spell(url):
     results.append(spell_data)
 
     # Записать обновленные данные обратно в файл JSON
-    with open('spells.json', 'w', encoding='utf-8') as file:
+    with open('../data/spells/spells_ru.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     # Вывод объекта на экран
