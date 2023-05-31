@@ -86,7 +86,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Wizard",
             "archetype": "Druid: Swamp"
         },
@@ -140,7 +140,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -212,7 +212,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -230,7 +230,7 @@
             "casting_time": "1 minute",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Ranger, Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -266,7 +266,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Druid, Wizard",
             "archetype": ""
         },
@@ -338,7 +338,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -518,7 +518,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Druid, Ranger, Ritual Caster",
             "archetype": ""
         },
@@ -536,7 +536,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Druid, Ranger, Ritual Caster",
             "archetype": ""
         },
@@ -554,7 +554,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -590,7 +590,7 @@
             "casting_time": "1 minute",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Wizard",
             "archetype": ""
         },
@@ -644,7 +644,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -662,7 +662,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -752,7 +752,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -770,7 +770,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Wizard",
             "archetype": ""
         },
@@ -788,7 +788,7 @@
             "casting_time": "1 hour",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Druid, Wizard",
             "archetype": ""
         },
@@ -806,7 +806,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Wizard",
             "archetype": "Cleric: Knowledge"
         },
@@ -824,7 +824,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -842,7 +842,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -878,7 +878,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -896,7 +896,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -1022,7 +1022,7 @@
             "casting_time": "1 hour",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Warlock, Wizard",
             "archetype": ""
         },
@@ -1040,7 +1040,7 @@
             "casting_time": "1 minute",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Ritual Caster",
             "archetype": ""
         },
@@ -1148,7 +1148,7 @@
             "casting_time": "8 hours",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Druid",
             "archetype": ""
         },
@@ -1202,7 +1202,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Paladin",
             "archetype": "Paladin: Vengeance"
         },
@@ -1220,7 +1220,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -1274,7 +1274,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Ranger",
             "archetype": "Cleric: Nature"
         },
@@ -1328,7 +1328,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": "Paladin: Devotion"
         },
@@ -1400,7 +1400,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Warlock, Wizard",
             "archetype": ""
         },
@@ -1436,7 +1436,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -1472,7 +1472,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -1508,7 +1508,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -1598,7 +1598,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -1634,7 +1634,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -1742,7 +1742,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -1760,7 +1760,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid, Warlock",
             "archetype": ""
         },
@@ -1796,7 +1796,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Druid, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -1814,7 +1814,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Fiend"
         },
@@ -1832,7 +1832,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery, Warlock: Archfey"
         },
@@ -1994,7 +1994,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -2138,7 +2138,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Desert"
         },
@@ -2318,7 +2318,7 @@
             "casting_time": "1 bonus action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Paladin",
             "archetype": ""
         },
@@ -2372,7 +2372,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "",
             "archetype": ""
         },
@@ -2426,7 +2426,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Light, Warlock: Fiend"
         },
@@ -2480,7 +2480,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid",
             "archetype": "Cleric: Tempest"
         },
@@ -2534,7 +2534,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Warlock",
             "archetype": "Warlock: Archfey"
         },
@@ -2678,7 +2678,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -2714,7 +2714,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -2840,7 +2840,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery"
         },
@@ -2894,7 +2894,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -2948,7 +2948,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -3002,7 +3002,7 @@
             "casting_time": "10 minutes",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -3038,7 +3038,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -3110,7 +3110,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -3128,7 +3128,7 @@
             "casting_time": "1 hour",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -3164,7 +3164,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Underdark"
         },
@@ -3218,7 +3218,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -3236,7 +3236,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Cleric, Paladin, Warlock",
             "archetype": "Warlock: Fiend"
         },
@@ -3272,7 +3272,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Paladin, Ritual Caster",
             "archetype": "Paladin: Devotion"
         },
@@ -3290,7 +3290,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Druid, Paladin, Ranger, Ritual Caster",
             "archetype": "Paladin: Ancients"
         },
@@ -3344,7 +3344,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Ritual Caster, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -3380,7 +3380,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard",
             "archetype": ""
         },
@@ -3398,7 +3398,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Arctic"
         },
@@ -3434,7 +3434,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer, Wizard",
             "archetype": "Cleric: Knowledge"
         },
@@ -3452,7 +3452,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Ranger",
             "archetype": ""
         },
@@ -3470,7 +3470,7 @@
             "casting_time": "1 minute",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -3488,7 +3488,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Wizard",
             "archetype": ""
         },
@@ -3506,7 +3506,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Warlock",
             "archetype": ""
         },
@@ -3596,7 +3596,7 @@
             "casting_time": "1 minute",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Wizard",
             "archetype": ""
         },
@@ -3722,7 +3722,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Ranger",
             "archetype": ""
         },
@@ -3758,7 +3758,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Ritual Caster, Warlock, Wizard",
             "archetype": ""
         },
@@ -3776,7 +3776,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -3794,7 +3794,7 @@
             "casting_time": "10 minutes",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -3812,7 +3812,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Wizard",
             "archetype": ""
         },
@@ -3830,7 +3830,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Wizard",
             "archetype": ""
         },
@@ -3848,7 +3848,7 @@
             "casting_time": "10 minutes",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Wizard",
             "archetype": ""
         },
@@ -3920,7 +3920,7 @@
             "casting_time": "1 reaction, which you take when you see a creature within 60 feet of you casting a spell",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Paladin: Redemption"
         },
@@ -3938,7 +3938,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Paladin",
             "archetype": "Druid: Desert"
         },
@@ -3992,7 +3992,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Warlock, Wizard",
             "archetype": ""
         },
@@ -4010,7 +4010,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -4028,7 +4028,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -4082,7 +4082,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "",
             "archetype": ""
         },
@@ -4136,7 +4136,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger",
             "archetype": ""
         },
@@ -4334,7 +4334,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -4388,7 +4388,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -4442,7 +4442,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Swamp"
         },
@@ -4460,7 +4460,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Ranger, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -4478,7 +4478,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Paladin, Ranger, Sorcerer",
             "archetype": ""
         },
@@ -4550,7 +4550,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -4568,7 +4568,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Druid, Warlock, Wizard",
             "archetype": ""
         },
@@ -4676,7 +4676,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -4712,7 +4712,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -4820,7 +4820,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -4838,7 +4838,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Ritual Caster, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -4856,7 +4856,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Druid, Paladin, Ranger, Ritual Caster",
             "archetype": ""
         },
@@ -4874,7 +4874,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -4928,7 +4928,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery, Paladin: Vengeance"
         },
@@ -4964,7 +4964,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Cleric, Sorcerer, Wizard",
             "archetype": "Cleric: Trickery"
         },
@@ -4982,7 +4982,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -5000,7 +5000,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -5018,7 +5018,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery"
         },
@@ -5108,7 +5108,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Druid, Ritual Caster",
             "archetype": "Druid: Forest, Grassland"
         },
@@ -5126,7 +5126,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Paladin",
             "archetype": "Cleric: War"
         },
@@ -5144,7 +5144,7 @@
             "casting_time": "1 bonus action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -5162,7 +5162,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Cleric, Druid, Sorcerer, Warlock",
             "archetype": "Cleric: Nature, Warlock: Archfey, Great Old One"
         },
@@ -5180,7 +5180,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -5198,7 +5198,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery, Warlock: Archfey, Great Old One"
         },
@@ -5414,7 +5414,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -5468,7 +5468,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -5486,7 +5486,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Druid, Warlock, Wizard",
             "archetype": "Druid: Grassland"
         },
@@ -5522,7 +5522,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -5558,7 +5558,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer",
             "archetype": ""
         },
@@ -5666,7 +5666,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Warlock",
             "archetype": ""
         },
@@ -5792,7 +5792,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -5864,7 +5864,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer",
             "archetype": ""
         },
@@ -5900,7 +5900,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -5918,7 +5918,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -5936,7 +5936,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Warlock",
             "archetype": ""
         },
@@ -6044,7 +6044,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6098,7 +6098,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6188,7 +6188,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6206,7 +6206,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6224,7 +6224,7 @@
             "casting_time": "10 minutes",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -6242,7 +6242,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Druid, Warlock",
             "archetype": "Cleric: Light, Warlock: Archfey"
         },
@@ -6260,7 +6260,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -6278,7 +6278,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -6314,7 +6314,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6332,7 +6332,7 @@
             "casting_time": "1 reaction",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -6386,7 +6386,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Druid, Warlock, Wizard",
             "archetype": ""
         },
@@ -6440,7 +6440,7 @@
             "casting_time": "1 hour",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -6476,7 +6476,7 @@
             "casting_time": "10 minutes",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Paladin",
             "archetype": ""
         },
@@ -6494,7 +6494,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Druid, Ranger",
             "archetype": ""
         },
@@ -6530,7 +6530,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -6548,7 +6548,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6566,7 +6566,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -6602,7 +6602,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Warlock, Wizard",
             "archetype": "Warlock: Fiend"
         },
@@ -6620,7 +6620,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer",
             "archetype": ""
         },
@@ -6656,7 +6656,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": "Cleric: Light, Warlock: Fiend"
         },
@@ -6692,7 +6692,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6710,7 +6710,7 @@
             "casting_time": "1 bonus action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -6728,7 +6728,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Paladin, Warlock",
             "archetype": "Paladin: Devotion, Warlock: Fiend"
         },
@@ -6764,7 +6764,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Wizard",
             "archetype": "Cleric: Light"
         },
@@ -6800,7 +6800,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -6836,7 +6836,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -6890,7 +6890,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -6908,7 +6908,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Ranger, Sorcerer, Wizard",
             "archetype": "Cleric: Tempest"
         },
@@ -6926,7 +6926,7 @@
             "casting_time": "10 minutes",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Ritual Caster",
             "archetype": ""
         },
@@ -6944,7 +6944,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Warlock, Wizard",
             "archetype": ""
         },
@@ -6962,7 +6962,7 @@
             "casting_time": "1 minute",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Druid, Warlock, Wizard",
             "archetype": ""
         },
@@ -7052,7 +7052,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger",
             "archetype": "Paladin: Devotion"
         },
@@ -7124,7 +7124,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -7250,7 +7250,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Underdark"
         },
@@ -7268,7 +7268,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -7322,7 +7322,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Wizard",
             "archetype": ""
         },
@@ -7340,7 +7340,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -7376,7 +7376,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -7466,7 +7466,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Warlock",
             "archetype": ""
         },
@@ -7520,7 +7520,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -7592,7 +7592,7 @@
             "casting_time": "1 hour",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -7646,7 +7646,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Ranger",
             "archetype": ""
         },
@@ -7700,7 +7700,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -7718,7 +7718,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Underdark, Warlock: Archfey"
         },
@@ -7790,7 +7790,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -7898,7 +7898,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -7916,7 +7916,7 @@
             "casting_time": "10 minutes",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -7952,7 +7952,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -7970,7 +7970,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -8006,7 +8006,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer, Wizard",
             "archetype": "Cleric: Tempest"
         },
@@ -8024,7 +8024,7 @@
             "casting_time": "24 hours",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Warlock",
             "archetype": "Warlock: Fiend"
         },
@@ -8042,7 +8042,7 @@
             "casting_time": "10 minutes",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Druid, Warlock, Wizard",
             "archetype": ""
         },
@@ -8060,7 +8060,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -8096,7 +8096,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -8168,7 +8168,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Paladin, Sorcerer, Wizard",
             "archetype": "Druid: Grassland, Paladin: Vengeance"
         },
@@ -8186,7 +8186,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -8204,7 +8204,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -8330,7 +8330,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Druid",
             "archetype": ""
         },
@@ -8420,7 +8420,7 @@
             "casting_time": "1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Paladin, Warlock",
             "archetype": "Paladin: Oathbreaker"
         },
@@ -8474,7 +8474,7 @@
             "casting_time": "10 minutes",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -8492,7 +8492,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Paladin",
             "archetype": ""
         },
@@ -8528,7 +8528,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -8564,7 +8564,7 @@
             "casting_time": "1 bonus action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -8582,7 +8582,7 @@
             "casting_time": "1 bonus action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -8636,7 +8636,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: War, Paladin: Vengeance"
         },
@@ -8654,7 +8654,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Paladin: Vengeance"
         },
@@ -8672,7 +8672,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -8744,7 +8744,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Paladin, Ranger",
             "archetype": "Paladin: Vengeance"
         },
@@ -8834,7 +8834,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -8906,7 +8906,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Paladin, Sorcerer, Wizard",
             "archetype": "Cleric: Tempest, Paladin: Ancients"
         },
@@ -8978,7 +8978,7 @@
             "casting_time": "1 minute",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Ritual Caster, Wizard",
             "archetype": "Cleric: Knowledge"
         },
@@ -9032,7 +9032,7 @@
             "casting_time": "1 minute",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Ritual Caster, Warlock, Wizard",
             "archetype": ""
         },
@@ -9086,7 +9086,7 @@
             "casting_time": "1 minute",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -9122,7 +9122,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -9158,7 +9158,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -9194,7 +9194,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Sorcerer",
             "archetype": ""
         },
@@ -9302,7 +9302,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -9320,7 +9320,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Grassland"
         },
@@ -9356,7 +9356,7 @@
             "casting_time": "1 bonus action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -9374,7 +9374,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -9428,7 +9428,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Ranger, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -9518,7 +9518,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -9716,7 +9716,7 @@
             "casting_time": "10 minutes",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -9824,7 +9824,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger",
             "archetype": ""
         },
@@ -9842,7 +9842,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10094,7 +10094,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10112,7 +10112,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Mountain"
         },
@@ -10166,7 +10166,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Druid, Ranger, Ritual Caster",
             "archetype": ""
         },
@@ -10184,7 +10184,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Wizard",
             "archetype": ""
         },
@@ -10202,7 +10202,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Wizard",
             "archetype": ""
         },
@@ -10274,7 +10274,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Druid, Ranger, Wizard",
             "archetype": ""
         },
@@ -10400,7 +10400,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10418,7 +10418,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -10436,7 +10436,7 @@
             "casting_time": "1 minute",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin, Warlock, Wizard",
             "archetype": ""
         },
@@ -10454,7 +10454,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -10472,7 +10472,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10490,7 +10490,7 @@
             "casting_time": "1 minute",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -10508,7 +10508,7 @@
             "casting_time": "1 bonus action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Paladin, Wizard",
             "archetype": "Cleric: War"
         },
@@ -10526,7 +10526,7 @@
             "casting_time": "1 minute",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -10562,7 +10562,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -10670,7 +10670,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -10688,7 +10688,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -10706,7 +10706,7 @@
             "casting_time": "1 bonus action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -10760,7 +10760,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -10814,7 +10814,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -10850,7 +10850,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Ritual Caster",
             "archetype": "Druid: Mountain"
         },
@@ -10868,7 +10868,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Druid, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -10886,7 +10886,7 @@
             "casting_time": "1 minute",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Bard, Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10922,7 +10922,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10940,7 +10940,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -10958,7 +10958,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -11012,7 +11012,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -11030,7 +11030,7 @@
             "casting_time": "10 minutes",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Druid, Wizard",
             "archetype": ""
         },
@@ -11066,7 +11066,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Cleric, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Trickery, Druid: Coast"
         },
@@ -11102,7 +11102,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -11120,7 +11120,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -11156,7 +11156,7 @@
             "casting_time": "1 bonus action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Paladin, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Coast, Paladin: Ancients, Vengeance"
         },
@@ -11174,7 +11174,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": "Cleric: Trickery"
         },
@@ -11264,7 +11264,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Paladin",
             "archetype": "Paladin: Ancients"
         },
@@ -11318,7 +11318,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -11462,7 +11462,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Ranger, Wizard",
             "archetype": "Cleric: Knowledge"
         },
@@ -11642,7 +11642,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid, Ranger",
             "archetype": "Cleric: Trickery"
         },
@@ -11660,7 +11660,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Wizard",
             "archetype": "Druid: Mountain"
         },
@@ -11714,7 +11714,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -11750,7 +11750,7 @@
             "casting_time": "1 minute",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -11804,7 +11804,7 @@
             "casting_time": "10 minutes",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -11822,7 +11822,7 @@
             "casting_time": "1 hour",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Druid, Wizard",
             "archetype": ""
         },
@@ -11840,7 +11840,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -11858,7 +11858,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Warlock",
             "archetype": "Cleric: Nature, Paladin: Ancients, Warlock: Archfey"
         },
@@ -11876,7 +11876,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -11912,7 +11912,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer, Wizard",
             "archetype": "Cleric: Trickery"
         },
@@ -11948,7 +11948,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -12020,7 +12020,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -12056,7 +12056,7 @@
             "casting_time": "10 minutes",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -12074,7 +12074,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -12128,7 +12128,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -12146,7 +12146,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -12164,7 +12164,7 @@
             "casting_time": "10 minutes",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -12182,7 +12182,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -12200,7 +12200,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -12218,7 +12218,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Wizard",
             "archetype": ""
         },
@@ -12236,7 +12236,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard",
             "archetype": "Paladin: Ancients, Vengeance"
         },
@@ -12254,7 +12254,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin, Warlock, Wizard",
             "archetype": ""
         },
@@ -12272,7 +12272,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid, Paladin, Ranger",
             "archetype": ""
         },
@@ -12326,7 +12326,7 @@
             "casting_time": "1 bonus action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "",
             "archetype": ""
         },
@@ -12344,7 +12344,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -12362,7 +12362,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Paladin, Ritual Caster",
             "archetype": ""
         },
@@ -12434,7 +12434,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -12524,7 +12524,7 @@
             "casting_time": "1 hour",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Cleric, Paladin",
             "archetype": ""
         },
@@ -12560,7 +12560,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -12578,7 +12578,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -12614,7 +12614,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -12704,7 +12704,7 @@
             "casting_time": "1 minute",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Druid",
             "archetype": ""
         },
@@ -12722,7 +12722,7 @@
             "casting_time": "1 hour",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -12740,7 +12740,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin, Warlock, Wizard",
             "archetype": ""
         },
@@ -12848,7 +12848,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -12866,7 +12866,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -12884,7 +12884,7 @@
             "casting_time": "1 hour",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Cleric",
             "archetype": ""
         },
@@ -12938,7 +12938,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -12974,7 +12974,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -13154,7 +13154,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -13208,7 +13208,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -13244,7 +13244,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": "Paladin: Devotion"
         },
@@ -13370,7 +13370,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Light, Warlock: Fiend"
         },
@@ -13406,7 +13406,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -13442,7 +13442,7 @@
             "casting_time": "10 minutes",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Warlock, Wizard",
             "archetype": "Paladin: Vengeance"
         },
@@ -13532,7 +13532,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -13568,7 +13568,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -13604,7 +13604,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Archfey"
         },
@@ -13676,7 +13676,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -13694,7 +13694,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -13712,7 +13712,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -13784,7 +13784,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "",
             "archetype": ""
         },
@@ -13802,7 +13802,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -14000,7 +14000,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Wizard",
             "archetype": ""
         },
@@ -14036,7 +14036,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Tempest"
         },
@@ -14072,7 +14072,7 @@
             "casting_time": "1 reaction",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -14090,7 +14090,7 @@
             "casting_time": "1 bonus action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Paladin",
             "archetype": ""
         },
@@ -14144,7 +14144,7 @@
             "casting_time": "1 bonus action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -14162,7 +14162,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -14180,7 +14180,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -14252,7 +14252,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Cleric, Druid, Ranger, Ritual Caster",
             "archetype": "Druid: Desert"
         },
@@ -14270,7 +14270,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -14288,7 +14288,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "",
             "archetype": ""
         },
@@ -14306,7 +14306,7 @@
             "casting_time": "12 hours",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -14360,7 +14360,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Archfey"
         },
@@ -14396,7 +14396,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Sorcerer, Wizard",
             "archetype": "Cleric: Tempest"
         },
@@ -14450,7 +14450,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Arctic"
         },
@@ -14594,7 +14594,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -14612,7 +14612,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Druid, Paladin, Ranger, Ritual Caster",
             "archetype": "Cleric: Nature, Paladin: Ancients"
         },
@@ -14630,7 +14630,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Bard, Cleric",
             "archetype": ""
         },
@@ -14666,7 +14666,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Druid, Ranger",
             "archetype": ""
         },
@@ -14702,7 +14702,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Forest, Mountain, Underdark"
         },
@@ -14720,7 +14720,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Ranger",
             "archetype": "Cleric: Nature"
         },
@@ -14792,7 +14792,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -14810,7 +14810,7 @@
             "casting_time": "1 bonus action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -14918,7 +14918,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Warlock, Wizard",
             "archetype": ""
         },
@@ -15062,7 +15062,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Druid: Swamp, Underdark, Warlock: Fiend"
         },
@@ -15080,7 +15080,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Wizard",
             "archetype": ""
         },
@@ -15098,7 +15098,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard",
             "archetype": "Cleric: War, Paladin: Ancients"
         },
@@ -15134,7 +15134,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -15224,7 +15224,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Knowledge"
         },
@@ -15314,7 +15314,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -15332,7 +15332,7 @@
             "casting_time": "1 action",
             "level": "8th-level",
             "level_int": 8,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -15404,7 +15404,7 @@
             "casting_time": "1 minute",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Bard, Cleric, Wizard",
             "archetype": ""
         },
@@ -15476,7 +15476,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": "Warlock: Great Old One"
         },
@@ -15494,7 +15494,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -15512,7 +15512,7 @@
             "casting_time": "1 action",
             "level": "7th-level",
             "level_int": 7,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -15530,7 +15530,7 @@
             "casting_time": "1 minute",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -15548,7 +15548,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -15656,7 +15656,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "",
             "archetype": ""
         },
@@ -15764,7 +15764,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Cleric, Druid, Sorcerer, Wizard",
             "archetype": "Cleric: Tempest"
         },
@@ -15890,7 +15890,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -15980,7 +15980,7 @@
             "casting_time": "1 minute",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Bard, Ritual Caster, Wizard",
             "archetype": ""
         },
@@ -16052,7 +16052,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -16142,7 +16142,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -16178,7 +16178,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "",
             "archetype": ""
         },
@@ -16232,7 +16232,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric, Druid, Paladin, Ranger",
             "archetype": "Cleric: Nature, Paladin: Ancients"
         },
@@ -16304,7 +16304,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Bard, Warlock, Wizard",
             "archetype": ""
         },
@@ -16322,7 +16322,7 @@
             "casting_time": "1 hour",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Cleric, Druid",
             "archetype": ""
         },
@@ -16340,7 +16340,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Cleric, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -16358,7 +16358,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Divination",
+            "school": "divination",
             "dnd_class": "Bard, Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -16502,7 +16502,7 @@
             "casting_time": "1 action",
             "level": "1st-level",
             "level_int": 1,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Bard, Ritual Caster, Warlock, Wizard",
             "archetype": ""
         },
@@ -16556,7 +16556,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Necromancy",
+            "school": "necromancy",
             "dnd_class": "Warlock, Wizard",
             "archetype": ""
         },
@@ -16592,7 +16592,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard",
             "archetype": ""
         },
@@ -16808,7 +16808,7 @@
             "casting_time": "1 action",
             "level": "4th-level",
             "level_int": 4,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Sorcerer, Warlock, Wizard",
             "archetype": "Cleric: Light, Warlock: Fiend"
         },
@@ -16826,7 +16826,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -16844,7 +16844,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -16862,7 +16862,7 @@
             "casting_time": "1 action",
             "level": "5th-level",
             "level_int": 5,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -16880,7 +16880,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -16916,7 +16916,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Abjuration",
+            "school": "abjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -16970,7 +16970,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid, Ranger, Ritual Caster, Sorcerer, Wizard",
             "archetype": ""
         },
@@ -16988,7 +16988,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Cleric, Druid, Ranger, Ritual Caster, Sorcerer",
             "archetype": ""
         },
@@ -17024,7 +17024,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Druid, Sorcerer, Wizard",
             "archetype": "Druid: Underdark"
         },
@@ -17060,7 +17060,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Illusion",
+            "school": "illusion",
             "dnd_class": "Wizard",
             "archetype": ""
         },
@@ -17132,7 +17132,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Sorcerer, Warlock, Wizard",
             "archetype": ""
         },
@@ -17168,7 +17168,7 @@
             "casting_time": "1 minute",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Transmutation",
+            "school": "transmutation",
             "dnd_class": "Druid",
             "archetype": ""
         },
@@ -17186,7 +17186,7 @@
             "casting_time": "1 action",
             "level": "3rd-level",
             "level_int": 3,
-            "school": "Evocation",
+            "school": "evocation",
             "dnd_class": "Cleric, Druid, Ranger",
             "archetype": "Cleric: Nature"
         },
@@ -17312,7 +17312,7 @@
             "casting_time": "1 action",
             "level": "9th-level",
             "level_int": 9,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Sorcerer, Wizard",
             "archetype": ""
         },
@@ -17366,7 +17366,7 @@
             "casting_time": "1 action",
             "level": "Cantrip",
             "level_int": 0,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "",
             "archetype": ""
         },
@@ -17384,7 +17384,7 @@
             "casting_time": "1 action",
             "level": "6th-level",
             "level_int": 6,
-            "school": "Conjuration",
+            "school": "conjuration",
             "dnd_class": "Cleric",
             "archetype": ""
         },
@@ -17492,7 +17492,7 @@
             "casting_time": "1 action",
             "level": "2nd-level",
             "level_int": 2,
-            "school": "Enchantment",
+            "school": "enchantment",
             "dnd_class": "Bard, Cleric, Paladin",
             "archetype": ""
         },
